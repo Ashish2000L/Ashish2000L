@@ -35,16 +35,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashish2000L&show_icons=true&hide=stars&count_private=true&include_all_commits=true&border_radius=10&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/Asish2000L">
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish2000L&layout=compact&theme=dark&langs_count=8" alt="top-langs" />  
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish2000L&layout=compact&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" alt="top-langs" />  
 </a>
- </p>
- 
+</p>
 
+---
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish2000l&show_icons=true&locale=en&layout=compact" alt="ashish2000l" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish2000l&show_icons=true&locale=en" alt="ashish2000l" /></p> -->
----
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Ashish2000L"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ashish2000L" /></a></p><br><br>

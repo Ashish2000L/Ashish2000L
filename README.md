@@ -31,10 +31,10 @@
 <p align='center'><img align='center' src="https://github-profile-trophy.vercel.app/?username=Ashish2000L&theme=juicyfresh&no-bg=true" /></p>
 
 <p align='center'>
-<a href="https://github.com/Asish2000L">
+<a href="https://github.com/Ashish2000L">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashish2000L&show_icons=true&hide=stars&count_private=true&include_all_commits=true&border_radius=10&show_owner=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-<a href="https://github.com/Asish2000L">
+<a href="https://github.com/Ashish2000L">
 <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish2000L&layout=compact&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" alt="top-langs" />  
 </a>
 </p>

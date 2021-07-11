@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, Java(Android mobile Application),C, C++, HTML5, ML, DL(Tensorflow, keras, fastai, pytorch) and MySql**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1maGsdKg7y6DEI-NdBvhpQCusWxLKnVyI/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1qeVfZaxo_5SgyUbCsDoLrB3lcfHPET0f/view?usp=sharing)
 
 - ⚡ Fun fact **I love to Code**
 
